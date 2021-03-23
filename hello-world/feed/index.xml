@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Saturday Pools	</title>
-	<atom:link href="https://daarster.github.io/satpools/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://daarster.github.io/satpools</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://daarster.github.io/satpools/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://daarster.github.io/satpools/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 21 Mar 2021 20:17:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://daarster.github.io/satpools/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
