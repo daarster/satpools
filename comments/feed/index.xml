@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Saturday Pools	</title>
-	<atom:link href="http://daarster.github.io/satpools/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://daarster.github.io/satpools</link>
+	<atom:link href="https://daarster.github.io/satpools/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://daarster.github.io/satpools</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 21 Mar 2021 20:17:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://daarster.github.io/satpools/2021/03/21/hello-world/#comment-1</link>
+		<link>https://daarster.github.io/satpools/2021/03/21/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 21 Mar 2021 20:17:57 +0000</pubDate>
-		<guid isPermaLink="false">http://daarster.github.io/satpools/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://daarster.github.io/satpools/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
